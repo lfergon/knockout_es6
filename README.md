@@ -1,4 +1,6 @@
-# KnockoutJS Webpack ES6, seed from https://github.com/kurtis-dunn/KnockoutJS-Webpack-ES6.git
+# KnockoutJS Webpack ES6, 
+
+### Project seed from https://github.com/kurtis-dunn/KnockoutJS-Webpack-ES6.git
 
 Quick Add/Remove table row example for KnockoutJS using ES6 classes.
 
